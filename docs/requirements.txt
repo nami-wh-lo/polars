@@ -9,7 +9,7 @@ plotly
 numba
 numpy
 
-mkdocs-material==9.5.27
+mkdocs-material==9.7.7
 mkdocs-macros-plugin==1.0.5
 mkdocs-redirects==1.2.1
 material-plausible-plugin==0.2.0
